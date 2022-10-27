@@ -1,0 +1,28 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "https://www.dommebeli.spb.ru/upload/iblock/d62/d628a79efeb61d0f24d74abf07dc8e38.jpg",
+        "title": "Кресло оскар",
+       
+        "price": 88883,
+        "category": 0,
+        "rating": 4
+    },
+    {
+        "id": 1,
+        "imageUrl": "https://www.dommebeli.spb.ru/upload/iblock/6cd/6cd84de585582c0e1717394385d380de.jpg",
+        "title": "Гостиная Нежность",
+        
+        "price": 54655,
+        "category": 0,
+        "rating": 6
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://www.dommebeli.spb.ru/upload/iblock/3dd/3ddf16bea97bcc3b2cddb07affea5470.jpg",
+        "title": "Стол обеденный KENNER",
+        "price": 16860,
+        "category": 0,
+        "rating": 6
+    }
+]
